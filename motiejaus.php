@@ -86,8 +86,8 @@ if(!isset($_COOKIE["klientai"])) {
     
 }
 
-
 echo "<table>";
+
 //Dvimatis masyvas yra lentele;
 //Ka daryti toliau? Ciklas
 
